@@ -3,7 +3,7 @@
 Installation
 ************
 
-Via Python Package
+Via Python Packagesdfasdfas
 ==================
 
 Install the package (or add it to your ``requirements.txt`` file):
